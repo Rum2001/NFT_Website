@@ -21,5 +21,3 @@ const main = async () => {
       process.exit(1);
     }
   };
-  
-  runMain();
